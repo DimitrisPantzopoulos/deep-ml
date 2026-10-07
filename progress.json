@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:55:18.617Z",
+  "generated_at": "2026-10-07T18:55:21.040Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -83,6 +83,167 @@
       "last_pushed_at": "2026-10-06T21:47:34.121Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-10-07T06:05:42.633Z",
+      "last_pushed_at": "2026-10-07T06:05:42.633Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-07T06:27:21.024Z",
+      "last_pushed_at": "2026-10-07T06:27:21.024Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-07T06:37:58.111Z",
+      "last_pushed_at": "2026-10-07T06:37:58.111Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-07T07:21:20.038Z",
+      "last_pushed_at": "2026-10-07T07:21:20.038Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-10-07T08:08:02.562Z",
+      "last_pushed_at": "2026-10-07T08:08:02.562Z",
+      "language": "python",
+      "lines": 18
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-07T14:04:31.765Z",
+      "last_pushed_at": "2026-10-07T14:04:31.765Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-07T14:19:03.167Z",
+      "last_pushed_at": "2026-10-07T14:19:03.167Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-10-07T14:20:54.237Z",
+      "last_pushed_at": "2026-10-07T14:20:54.237Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-10-07T14:38:15.194Z",
+      "last_pushed_at": "2026-10-07T14:38:15.194Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-10-07T15:03:52.805Z",
+      "last_pushed_at": "2026-10-07T15:03:52.805Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-07T16:38:41.340Z",
+      "last_pushed_at": "2026-10-07T16:38:41.340Z",
+      "language": "python",
+      "lines": 47
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-07T17:18:26.387Z",
+      "last_pushed_at": "2026-10-07T17:18:26.387Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-07T17:28:13.383Z",
+      "last_pushed_at": "2026-10-07T17:28:13.383Z"
     }
   }
 }
