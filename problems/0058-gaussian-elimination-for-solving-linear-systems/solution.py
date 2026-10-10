@@ -41,7 +41,8 @@ def gaussian_elimination(A : np.ndarray, b : np.ndarray):
 	x = np.zeros(rows)
 
 	for k in range(rows - 1, -1, -1):
-		known_factors : np.ndarray = A[k, k + 1:] @ x[k + 1:]
-		x[k] = (b[k] - known_factors) / A[k, k]
+		for i in range(k + 1, rows):
+			b[k] -= A[k][i] * x[i]
+		x[k] = b[k] / A[k][k]
 	
 	return x
