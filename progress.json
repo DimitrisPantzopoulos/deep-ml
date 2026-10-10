@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:46:43.798Z",
+  "generated_at": "2026-10-10T14:49:20.754Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -451,6 +451,19 @@
       "last_pushed_at": "2026-10-09T19:46:43.560Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:659": {
+      "kind": "problem",
+      "id": "659",
+      "title": "Zero-Copy Batch Data Loading from Shared Memory",
+      "difficulty": "medium",
+      "category": "Performance Optimization",
+      "url": "https://www.deep-ml.com/problems/659",
+      "path": "problems/0659-zero-copy-batch-data-loading-from-shared-memory",
+      "first_solved_at": "2026-10-10T14:49:21.392Z",
+      "last_pushed_at": "2026-10-10T14:49:21.392Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
