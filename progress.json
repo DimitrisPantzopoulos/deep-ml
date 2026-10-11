@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:31:03.010Z",
+  "generated_at": "2026-10-11T23:45:47.744Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -623,6 +623,19 @@
       "last_pushed_at": "2026-10-11T22:31:02.999Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-10-11T23:45:47.808Z",
+      "last_pushed_at": "2026-10-11T23:45:47.808Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
