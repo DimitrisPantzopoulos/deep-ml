@@ -28,7 +28,7 @@ def train(
     targets  : np.ndarray = np.copy(y)
 
     # Initialise Hyperparameters
-    EPOCHS : int   = 1000
+    EPOCHS : int   = 10000
     LR     : float = 1e-3
 
     # Start Training
