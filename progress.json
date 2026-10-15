@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:25:17.836Z",
+  "generated_at": "2026-10-15T14:30:40.395Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -899,6 +899,19 @@
       "path": "math/0054-discounted-return-and-the-geometric-series",
       "first_solved_at": "2026-10-15T14:25:17.315Z",
       "last_pushed_at": "2026-10-15T14:25:17.315Z"
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-10-15T14:30:40.111Z",
+      "last_pushed_at": "2026-10-15T14:30:40.111Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
