@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:05:13.525Z",
+  "generated_at": "2026-10-19T11:14:18.306Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -975,6 +975,17 @@
       "last_pushed_at": "2026-10-19T11:05:15.273Z",
       "language": "python",
       "lines": 39
+    },
+    "math:130": {
+      "kind": "math",
+      "id": "130",
+      "title": "Why Minibatches: Gradient Variance vs Batch Size",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/130",
+      "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
+      "first_solved_at": "2026-10-19T11:14:20.267Z",
+      "last_pushed_at": "2026-10-19T11:14:20.267Z"
     }
   }
 }

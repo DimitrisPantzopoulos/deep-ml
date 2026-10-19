@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 52 problems · 1 labs · 26 math
+**80** solved · 52 problems · 1 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-06 | [solution](math/0009-matrix-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-07 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-06 | [solution](math/0007-vector-operations) |
+| [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-19 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-11 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-13 | [solution](math/0020-bayes-theorem) |
 | [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-10-15 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |
