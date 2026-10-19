@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:14:18.306Z",
+  "generated_at": "2026-10-19T11:26:57.884Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -986,6 +986,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-19T11:14:20.267Z",
       "last_pushed_at": "2026-10-19T11:14:20.267Z"
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-10-19T11:26:59.793Z",
+      "last_pushed_at": "2026-10-19T11:26:59.793Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
