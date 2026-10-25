@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:07:05.427Z",
+  "generated_at": "2026-10-25T21:20:52.242Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1077,6 +1077,17 @@
       "last_pushed_at": "2026-10-24T23:07:05.700Z",
       "language": "python",
       "lines": 88
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-10-25T21:20:52.334Z",
+      "last_pushed_at": "2026-10-25T21:20:52.334Z"
     }
   }
 }
