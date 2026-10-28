@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 68 problems · 3 labs · 28 math
+**100** solved · 69 problems · 3 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-07 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-10-24 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-15 | [solution](problems/1102-select-specific-columns) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-28 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-07 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-10-15 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-10-24 | [solution](problems/1202-vector-addition) |
