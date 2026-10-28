@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:19:27.900Z",
+  "generated_at": "2026-10-28T14:52:54.012Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -1140,6 +1140,19 @@
       "last_pushed_at": "2026-10-26T10:19:27.230Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1323": {
+      "kind": "problem",
+      "id": "1323",
+      "title": "ReLU with JAX Arrays",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1323",
+      "path": "problems/1323-relu-with-jax-arrays",
+      "first_solved_at": "2026-10-28T14:52:54.018Z",
+      "last_pushed_at": "2026-10-28T14:52:54.018Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
